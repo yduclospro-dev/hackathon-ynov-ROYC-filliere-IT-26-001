@@ -1,0 +1,3 @@
+@echo off
+echo Lancement de l'interface de chat TechCorp Industries...
+start index.html
